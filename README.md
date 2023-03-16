@@ -23,7 +23,7 @@ plt.subplots was written as pltsubplots
 ![image](https://user-images.githubusercontent.com/75678658/225581806-5cd72e59-1492-40d1-9864-69f982a282ab.png)
 
 
-## Error 5: 
+## Error 4: 
 If statement was not intended properly
 
 ![image](https://user-images.githubusercontent.com/75678658/225582133-3367caee-e347-4024-9b3c-65cce42181a9.png)
