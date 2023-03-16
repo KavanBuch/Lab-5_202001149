@@ -4,7 +4,7 @@
 
 ##### Statis analysis checker used here is *mypy*.	
 The file used for purpose of static checking is test.py, which is also present in the repo by the same name.
-These are the screenshots of the errors that were generated:
+These are the screenshots of the errors that were generated:(click on images to view more clearly)
 
 ## Error 1: 
 **False Negative** : library not found, even when it is actually installed
